@@ -9,9 +9,9 @@
 
   },
   "keywords": [],
-  "author": "",
+  "author": "Sandra Milena Sotelo",
   "license": "ISC",
-  "description": "",
+  "description": "Coleción de Libros",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
